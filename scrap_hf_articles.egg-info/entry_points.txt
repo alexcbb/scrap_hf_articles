@@ -1,3 +1,0 @@
-[console_scripts]
-scrap_hf_articles = scrap_hf_articles.core:main
-
