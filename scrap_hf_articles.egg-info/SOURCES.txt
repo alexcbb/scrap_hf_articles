@@ -1,0 +1,10 @@
+README.md
+setup.py
+scrap_hf_articles/__init__.py
+scrap_hf_articles/core.py
+scrap_hf_articles.egg-info/PKG-INFO
+scrap_hf_articles.egg-info/SOURCES.txt
+scrap_hf_articles.egg-info/dependency_links.txt
+scrap_hf_articles.egg-info/entry_points.txt
+scrap_hf_articles.egg-info/requires.txt
+scrap_hf_articles.egg-info/top_level.txt
